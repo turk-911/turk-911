@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mokshe Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Application based on weather API**
+- 🔭 I’m currently working on **Making a simple blog platform**
 
-- 🌱 I’m currently learning **Python, Swift, C++**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 📫 How to reach me **jainmokshejain2005@gmail.com**
 
